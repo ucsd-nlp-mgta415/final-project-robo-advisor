@@ -1,7 +1,7 @@
 
-# Data Mining Challenge Submission Guide
+# Final Rroject - Robo Advisor Submission Guide
 
-Welcome to the Data Mining Challenge for your NLP Applications course at UCSD's Rady Business School. This document provides detailed instructions on how to submit your individual assignments through GitHub Classroom.
+Welcome to the Final Project for your NLP Applications course at UCSD's Rady Business School. This document provides detailed instructions on how to submit your group assignments through GitHub Classroom.
 
 ## Table of Contents
 
