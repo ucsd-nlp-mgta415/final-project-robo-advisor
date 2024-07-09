@@ -10,7 +10,7 @@ services:
       - ../:/mnt
     command: bash -c "cd /mnt && jupyter lab --NotebookApp.token='' --ip=0.0.0.0 --allow-root && /bin/bash"
     stdin_open: true
-    container_name: "mgta415_dmc_develop"
+    container_name: "mgta415_fp_robo_advisor"
     tty: true
     env_file:
       - ../.env
