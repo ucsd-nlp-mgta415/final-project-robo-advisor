@@ -20,6 +20,7 @@ textblob = "^0.18.0.post0"
 transformers = "^4.42.3"
 poetry-dotenv = "^0.4.0"
 alpaca-trade-api = "^3.2.0"
+fmp-python = "^0.1.4"
 
 
 [build-system]
