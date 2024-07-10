@@ -18,6 +18,8 @@ nltk = "^3.8.1"
 spacy = "^3.7.4"
 textblob = "^0.18.0.post0"
 transformers = "^4.42.3"
+poetry-dotenv = "^0.4.0"
+alpaca-trade-api = "^3.2.0"
 
 
 [build-system]
