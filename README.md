@@ -10,7 +10,7 @@ Welcome to the Final Project for your NLP Applications course at UCSD's Rady Bus
 3. [Setting Up Your Repository](#setting-up-your-repository)
 4. [Using the Assignment Template](#using-the-assignment-template)
 5. [Secret Management](#secret-management)
-6.[Troubleshooting](#troubleshooting)
+6. [Troubleshooting](#troubleshooting)
 
 ## Prerequisites
 
